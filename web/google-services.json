@@ -1,0 +1,164 @@
+{
+  "project_info": {
+    "project_number": "262948598018",
+    "firebase_url": "https://foodstory-9c927.firebaseio.com",
+    "project_id": "foodstory-9c927",
+    "storage_bucket": "foodstory-9c927.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262948598018:android:ae3ac8844a16e1b5",
+        "android_client_info": {
+          "package_name": "me.livingmobile.foodstory.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262948598018-nrme4poejnl2qkbonro7qr597r0n0alc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.livingmobile.foodstory.customer",
+            "certificate_hash": "8e37fb32bbed69e3d71b92cce272a2a02c681d24"
+          }
+        },
+        {
+          "client_id": "262948598018-okt7ktbl78omqftv4g2tch54l474slj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2ywWqyv2iihSuiAp07uqVCioJRZQSjjQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262948598018-okt7ktbl78omqftv4g2tch54l474slj4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "262948598018-s56ip68ka4fsl9950ejh7dubumff8b0f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.livingmobile.foodstoryowner-ent"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262948598018:android:b1f4f1f4ce42868c",
+        "android_client_info": {
+          "package_name": "me.livingmobile.foodstory.segafredo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262948598018-b7nj5o4fl0a5epbubfvblrulqkucstc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.livingmobile.foodstory.segafredo",
+            "certificate_hash": "8e37fb32bbed69e3d71b92cce272a2a02c681d24"
+          }
+        },
+        {
+          "client_id": "262948598018-okt7ktbl78omqftv4g2tch54l474slj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2ywWqyv2iihSuiAp07uqVCioJRZQSjjQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262948598018-okt7ktbl78omqftv4g2tch54l474slj4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "262948598018-s56ip68ka4fsl9950ejh7dubumff8b0f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.livingmobile.foodstoryowner-ent"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262948598018:android:b0e8e180c46d1afc",
+        "android_client_info": {
+          "package_name": "me.livingmobile.foodstory.staff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262948598018-4rtrj4aiv5o1o10s0gs00l49s9pkmv6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.livingmobile.foodstory.staff",
+            "certificate_hash": "8e37fb32bbed69e3d71b92cce272a2a02c681d24"
+          }
+        },
+        {
+          "client_id": "262948598018-okt7ktbl78omqftv4g2tch54l474slj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2ywWqyv2iihSuiAp07uqVCioJRZQSjjQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262948598018-okt7ktbl78omqftv4g2tch54l474slj4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "262948598018-s56ip68ka4fsl9950ejh7dubumff8b0f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.livingmobile.foodstoryowner-ent"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
