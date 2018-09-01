@@ -51,3 +51,5 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/firebase','FirebaseController@test');
 
 Route::get('/testbranchdev','FirebaseController@test');
+
+Route::get('/testbranchtoeidev','FirebaseController@test');
